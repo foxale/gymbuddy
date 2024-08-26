@@ -1,0 +1,730 @@
+[
+  {
+    "miasto": "Białystok",
+    "lat": 53.126266853176,
+    "lng": 23.096485350205,
+    "nazwa": "Białystok Wrocławska",
+    "adres": "ul. Wrocławska 51b15-644 Białystok"
+  },
+  {
+		    "miasto": "Częstochowa",
+    "lat": 50.794179626763,
+    "lng": 19.080230015344,
+    "nazwa": "Częstochowa - Piastowska",
+    "adres": "Piastowska 22542-200 Częstochowa"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.3995,
+    "lng": 18.5768,
+    "nazwa": "Alchemia",
+    "adres": "al. Grunwaldzka 41180-309 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.3378,
+    "lng": 18.6119,
+    "nazwa": "Chełm",
+    "adres": "ul. Cieszyńskiego 1B80-809 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.409756613044,
+    "lng": 18.590815140321,
+    "nazwa": "Galeria Przymorze",
+    "adres": "ul. Obrońców Wybrzeża 180-398 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.396002594342,
+    "lng": 18.589607033695,
+    "nazwa": "Grunwaldzka",
+    "adres": "al. Grunwaldzka 22980-266 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.311622108116,
+    "lng": 18.567279997988,
+    "nazwa": "Kowale",
+    "adres": "ul. Staropolska 3280-180 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.356669526577,
+    "lng": 18.648508726825,
+    "nazwa": "Madison",
+    "adres": "ul. Rajska 1080-850 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.3772,
+    "lng": 18.6075,
+    "nazwa": "Manhattan",
+    "adres": "Al. Grunwaldzka 8280-244 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.352783208577,
+    "lng": 18.593961640319,
+    "nazwa": "Morena",
+    "adres": "ul. Schuberta 102 A80-172 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.330050020404,
+    "lng": 18.605064870234,
+    "nazwa": "Nieborowska",
+    "adres": "ul. Nieborowska 1080-034 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.4119,
+    "lng": 18.6023,
+    "nazwa": "Przymorze",
+    "adres": "ul. Prezydenta Lecha Kaczyńskiego 2080-364 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.3227,
+    "lng": 18.5528,
+    "nazwa": "Rental Park",
+    "adres": "ul. Przywidzka 980-174 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.718275012134,
+    "lng": 18.70147687019,
+    "nazwa": "Rzeczypospolitej",
+    "adres": "al. Rzeczypospolitej 880-369  Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.3555,
+    "lng": 18.6141,
+    "nazwa": "Suchanino",
+    "adres": "ul. Zygmunta Noskowskiego 180-170 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdańsk",
+    "lat": 54.390062709053,
+    "lng": 18.610309428912,
+    "nazwa": "Zaspa",
+    "adres": "Al. Rzeczypospolitej 3380-463 Gdańsk"
+		  },
+	  {
+		    "miasto": "Gdynia",
+    "lat": 54.5002,
+    "lng": 18.4377,
+    "nazwa": "Chwarzno",
+    "adres": "ul. Czesława Niemena 281-603 Gdynia"
+		  },
+	  {
+		    "miasto": "Gdynia",
+    "lat": 54.4733,
+    "lng": 18.4741,
+    "nazwa": "Karwiny",
+    "adres": "ul. Nowowiczlińska 3581-577 Gdynia"
+		  },
+	  {
+		    "miasto": "Gdynia",
+    "lat": 54.474485071149,
+    "lng": 18.551942497994,
+    "nazwa": "Klif",
+    "adres": "Al. Zwycięstwa 25681-525 Gdynia"
+		  },
+	  {
+		    "miasto": "Gdynia",
+    "lat": 54.522220904024,
+    "lng": 18.543481937084,
+    "nazwa": "Plac Kaszubski",
+    "adres": "Pl. Kaszubski 1781-350 Gdynia"
+		  },
+	  {
+		    "miasto": "Gdynia",
+    "lat": 54.5024,
+    "lng": 18.5318,
+    "nazwa": "Riviera",
+    "adres": "ul. Kazimierza Górskiego 281-304 Gdynia"
+		  },
+	  {
+		    "miasto": "Gdynia",
+    "lat": 54.498113855038,
+    "lng": 18.509137390417,
+    "nazwa": "Witawa",
+    "adres": "Wielkokacka 281-611 Gdynia"
+		  },
+	  {
+		    "miasto": "Janki",
+    "lat": 52.135179233491,
+    "lng": 20.897851283766,
+    "nazwa": "Homepark Janki",
+    "adres": "Plac Szwedzki 305-090 Raszyn"
+		  },
+	  {
+		    "miasto": "Kielce",
+    "lat": 50.8811,
+    "lng": 20.6462,
+    "nazwa": "Galeria Echo",
+    "adres": "ul. Świętokrzyska 2025-406 Kielce"
+		  },
+	  {
+		    "miasto": "Kielce",
+    "lat": 50.8757,
+    "lng": 20.6358,
+    "nazwa": "Galeria Korona",
+    "adres": "ul. Warszawska 2625-312 Kielce"
+		  },
+	  {
+		    "miasto": "Koszalin",
+    "lat": 54.1775,
+    "lng": 16.2015,
+    "nazwa": "Forum",
+    "adres": "ul. Paderewskiego 175-736 Koszalin"
+		  },
+	  {
+		    "miasto": "Koszalin",
+    "lat": 54.1899,
+    "lng": 16.1723,
+    "nazwa": "Galeria Kosmos",
+    "adres": "ul. Stefana Okrzei 375-203 Koszalin"
+		  },
+	  {
+		    "miasto": "Legionowo",
+    "lat": 52.3906,
+    "lng": 20.9192,
+    "nazwa": "Legionowo",
+    "adres": "ul. Siwińskiego 205-120 Legionowo"
+		  },
+	  {
+		    "miasto": "Legionowo",
+    "lat": 52.4024,
+    "lng": 20.9464,
+    "nazwa": "Zegrzyńska Legionowo",
+    "adres": "ul. Zegrzyńska 1D05-120 Legionowo"
+		  },
+	  {
+		    "miasto": "Otwock",
+    "lat": 52.1101,
+    "lng": 21.2573,
+    "nazwa": "Otwock",
+    "adres": "ul. Kołłątaja 405-400 Otwock"
+		  },
+	  {
+		    "miasto": "Piaseczno",
+    "lat": 52.079478514531,
+    "lng": 21.010534331074,
+    "nazwa": "Pawia",
+    "adres": "ul. Pawia 1105-500 Piaseczno"
+		  },
+	  {
+		    "miasto": "Piastów",
+    "lat": 52.1836,
+    "lng": 20.8396,
+    "nazwa": "Pasaż Warszawska",
+    "adres": "ul. Warszawska 4305-820 Piastów"
+		  },
+	  {
+		    "miasto": "Pruszków",
+    "lat": 52.1654,
+    "lng": 20.7932,
+    "nazwa": "Nowa Stacja",
+    "adres": "ul. Sienkiewicza 1905-800 Pruszków"
+		  },
+	  {
+		    "miasto": "Płock",
+    "lat": 52.5377,
+    "lng": 19.7515,
+    "nazwa": "Galeria Mazovia",
+    "adres": "ul. Wyszogrodzka 12709-410 Płock"
+		  },
+	  {
+		    "miasto": "Radom",
+    "lat": 51.556146979294,
+    "lng": 21.171185900644,
+    "nazwa": "Radom",
+    "adres": "ul. Wernera 1026-600 Radom"
+		  },
+	  {
+		    "miasto": "Sopot",
+    "lat": 54.4417,
+    "lng": 18.5621,
+    "nazwa": "Sopot Centrum",
+    "adres": "ul. Dworcowa 781-704 Sopot"
+		  },
+	  {
+		    "miasto": "Stara_Iwiczna",
+    "lat": 52.082577863885,
+    "lng": 21.011172184533,
+    "nazwa": "NPark",
+    "adres": "Nowa 405-500 Stara Iwiczna"
+		  },
+	  {
+		    "miasto": "Szczecin",
+    "lat": 53.433812289692,
+    "lng": 14.55654586912,
+    "nazwa": "Galaxy",
+    "adres": "Al. Wyzwolenia 18/2070-554 Szczecin"
+		  },
+	  {
+		    "miasto": "Szczecin",
+    "lat": 53.428120116788,
+    "lng": 14.551340313295,
+    "nazwa": "Kaskada",
+    "adres": "Al. Niepodległości 3670-404 Szczecin"
+		  },
+	  {
+		    "miasto": "Szczecin",
+    "lat": 53.379194578204,
+    "lng": 14.670039784458,
+    "nazwa": "Outlet Park",
+    "adres": "Andrzeja Struga 4270-784 Szczecin"
+		  },
+	  {
+		    "miasto": "Szczecin",
+    "lat": 53.417759771185,
+    "lng": 14.53202064213,
+    "nazwa": "Piastów Office Center",
+    "adres": "Al. Piastów 3071-064 Szczecin"
+		  },
+	  {
+		    "miasto": "Toruń",
+    "lat": 53.02458,
+    "lng": 18.63649,
+    "nazwa": "Galeria Copernicus",
+    "adres": "ul. Żółkiewskiego 1587-100 Toruń"
+		  },
+	  {
+		    "miasto": "Toruń",
+    "lat": 53.029779643028,
+    "lng": 18.651545320799,
+    "nazwa": "Toruń Rydygiera",
+    "adres": "ul. Rydygiera 30/3287-100 Toruń"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.18103005539,
+    "lng": 20.995594540479,
+    "nazwa": "Adgar Plaza",
+    "adres": "ul. Postępu 17 A02-676 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2219,
+    "lng": 20.9766,
+    "nazwa": "Aleje Jerozolimskie",
+    "adres": "Al. Jerozolimskie 10000-807 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2572,
+    "lng": 20.9845,
+    "nazwa": "Arkadia",
+    "adres": "Al. Jana Pawła II 8200-175 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2316,
+    "lng": 21.1055,
+    "nazwa": "Atrium Promenada",
+    "adres": "ul. Ostrobramska 75c04-175 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.3039,
+    "lng": 21.0578,
+    "nazwa": "Atrium Targówek",
+    "adres": "ul. Głębocka 1503-287 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2456,
+    "lng": 20.9059,
+    "nazwa": "Bemowo",
+    "adres": "ul. Dywizjonu 303 129B01-470 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.227065067556,
+    "lng": 20.91055037102,
+    "nazwa": "Bemowo Świetlików",
+    "adres": "ul. Świetlików 301-389 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.339167369137,
+    "lng": 20.957988513493,
+    "nazwa": "Białołęka",
+    "adres": "ul. Modlińska 25603-152 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2827,
+    "lng": 20.9591,
+    "nazwa": "Bielany",
+    "adres": "ul. Marymoncka 3401-813 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.273150236173,
+    "lng": 20.930870528881,
+    "nazwa": "Bielany Dąbrowskiej",
+    "adres": "ul. Marii Dąbrowskiej 1501-903 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1986,
+    "lng": 21.0474,
+    "nazwa": "Bobrowiecka",
+    "adres": "ul. Bobrowiecka 800-728 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2559,
+    "lng": 20.9931,
+    "nazwa": "Dworzec Gdański",
+    "adres": "ul. Inflancka 4c, Budynek D00-189 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.21,
+    "lng": 21.0222,
+    "nazwa": "Europlex",
+    "adres": "ul. Puławska 1702-515 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2062,
+    "lng": 21.1686,
+    "nazwa": "Ferio",
+    "adres": "ul. Szpotańskiego 404-760 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.223713745593,
+    "lng": 20.928170728836,
+    "nazwa": "Fort Wola",
+    "adres": "Połczyńska 4 01-378 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.3174,
+    "lng": 20.9668,
+    "nazwa": "Galeria Północna",
+    "adres": "ul. Światowida 1703-144 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2354,
+    "lng": 21.0844,
+    "nazwa": "Gocław",
+    "adres": "ul. Ostrobramska 10104-041 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1996,
+    "lng": 20.9656,
+    "nazwa": "Grójecka",
+    "adres": "ul. Grójecka 20802-390 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.304754539439,
+    "lng": 21.077578726104,
+    "nazwa": "Homepark Targówek",
+    "adres": "ul. Malborska 39 lok. A4/5 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.225966044591,
+    "lng": 20.950753729007,
+    "nazwa": "Jana Kazimierza",
+    "adres": "ul. Jana Kazimierza 301-248 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2554,
+    "lng": 21.0443,
+    "nazwa": "Koneser",
+    "adres": "Plac Konesera 503-736 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1848,
+    "lng": 20.9889,
+    "nazwa": "Konstruktorska",
+    "adres": "ul. Konstruktorska 1302-673 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1894,
+    "lng": 20.9467,
+    "nazwa": "Krakowiaków",
+    "adres": "ul. Krakowiaków 4602-255 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2315,
+    "lng": 21.0164,
+    "nazwa": "Krucza",
+    "adres": "Krucza 5000-025 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.230054415769,
+    "lng": 20.895509634401,
+    "nazwa": "Lazurowa",
+    "adres": "Lazurowa 71A01-314 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.178,
+    "lng": 20.999,
+    "nazwa": "Marynarska",
+    "adres": "ul. Marynarska 15, klatka B, I piętro02-674 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.232450526855,
+    "lng": 20.992781162738,
+    "nazwa": "Mennica Legacy Tower",
+    "adres": "ul. Prosta 1800-850  Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2181,
+    "lng": 21.0142,
+    "nazwa": "Metro Politechnika",
+    "adres": "ul. Polna 1100-633 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1811,
+    "lng": 21.0273,
+    "nazwa": "Mokotów Bukowińska",
+    "adres": "ul. Bukowińska 2202-703 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.207328471182,
+    "lng": 21.022580452392,
+    "nazwa": "Mokotów Puławska",
+    "adres": "ul. Puławska 3902-508 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2941,
+    "lng": 20.9303,
+    "nazwa": "Młociny",
+    "adres": "ul. Zgrupowania AK \"Kampinos\" 1501-943 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.210571104833,
+    "lng": 20.953010753334,
+    "nazwa": "Ochota Adgar",
+    "adres": "Al. Jerozolimskie 181B02-222 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2126,
+    "lng": 21.0197,
+    "nazwa": "Plac Unii",
+    "adres": "ul. Puławska 202-566 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2912,
+    "lng": 20.9363,
+    "nazwa": "Przy Agorze",
+    "adres": "ul. Przy Agorze 2201-930 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1417,
+    "lng": 21.026,
+    "nazwa": "Puławska",
+    "adres": "ul. Puławska 42702-801 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.29,
+    "lng": 21.03,
+    "nazwa": "Renova",
+    "adres": "ul. Rembielińska 2003-352 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2328,
+    "lng": 20.9995,
+    "nazwa": "Rondo ONZ",
+    "adres": "Rondo ONZ 100-124 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.154,
+    "lng": 21.0815,
+    "nazwa": "Rzeczypospolitej",
+    "adres": "Al. Rzeczypospolitej 102-972 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.177550770528,
+    "lng": 21.068424898812,
+    "nazwa": "Sadyba Nałęczowska",
+    "adres": "ul. Nałęczowska 1902-922 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2309,
+    "lng": 20.9693,
+    "nazwa": "Skierniewicka",
+    "adres": "ul. Skierniewicka 16/2001-230 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1872,
+    "lng": 21.0465,
+    "nazwa": "Stegny",
+    "adres": "ul. Mangalia 402-758 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.257,
+    "lng": 20.9572,
+    "nazwa": "Szamocka",
+    "adres": "ul. Szamocka 10 C01-748 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.277397750965,
+    "lng": 21.048821813493,
+    "nazwa": "Targówek - Dalanowska",
+    "adres": "Dalanowska 46/U303-556 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.228952777054,
+    "lng": 20.984572622627,
+    "nazwa": "The Warsaw HUB",
+    "adres": "Rondo Daszyńskiego 200-843 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.223571587028,
+    "lng": 21.243719328155,
+    "nazwa": "Trakt Brzeski",
+    "adres": "aleja Marszałka Józefa Piłsudskiego 205-077 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.191,
+    "lng": 20.9136,
+    "nazwa": "Ursus Dzieci Warszawy",
+    "adres": "ul. Dzieci Warszawy 402-495 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.190795714451,
+    "lng": 20.89290673181,
+    "nazwa": "Ursus Pużaka",
+    "adres": "ul. Pużaka 102-495 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.163744655937,
+    "lng": 21.025792175603,
+    "nazwa": "Ursynów Koński Jar",
+    "adres": "ul. Koński Jar 602-785 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2287,
+    "lng": 20.9995,
+    "nazwa": "Varso",
+    "adres": "ul. Chmielna 7100-801 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2322,
+    "lng": 20.984,
+    "nazwa": "Warsaw Spire",
+    "adres": "Plac Europejski 100-844 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.195,
+    "lng": 21.0263,
+    "nazwa": "Warszawianka",
+    "adres": "ul. Merliniego 402-511 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1799,
+    "lng": 21.0039,
+    "nazwa": "Westfield Mokotów",
+    "adres": "ul. Wołoska 1202-675 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1791,
+    "lng": 21.013,
+    "nazwa": "Wilanowska",
+    "adres": "Al. Wilanowska 36102-665 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2325,
+    "lng": 20.9634,
+    "nazwa": "Wola",
+    "adres": "ul. Wolska 71/7201-229 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2421,
+    "lng": 20.9304,
+    "nazwa": "Wola Park",
+    "adres": "ul. Górczewska 12401-460 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.2469828118,
+    "lng": 21.062173927907,
+    "nazwa": "Zdrofit PZO",
+    "adres": "Grochowska 31204-148 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.3191,
+    "lng": 20.9629,
+    "nazwa": "Światowida",
+    "adres": "ul. Trakt Nadwiślański 1403-188 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.261981134453,
+    "lng": 20.980822594225,
+    "nazwa": "Żoliborz Wojska Polskiego",
+    "adres": "Wojska Polskiego 4101-503 Warszawa"
+		  },
+	  {
+		    "miasto": "Warszawa",
+    "lat": 52.1894,
+    "lng": 20.9818,
+    "nazwa": "Żwirki i Wigury",
+    "adres": "ul. Żwirki i Wigury 1602-092 Warszawa"
+		  },
+	  {
+		    "miasto": "Wołomin",
+    "lat": 52.357463715523,
+    "lng": 21.259015629938,
+    "nazwa": "Wołomin",
+    "adres": "ul. Geodetów 205-200 Wołomin"
+		  },
+	  {
+		    "miasto": "Włocławek",
+    "lat": 52.6547,
+    "lng": 19.0617,
+    "nazwa": "Wzorcownia",
+    "adres": "ul. Kilińskiego 387-800 Włocławek"
+		  }
+]
